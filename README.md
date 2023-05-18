@@ -20,3 +20,5 @@ With our variables all set we can graph our data! First we'll make a scatter plo
 <img width="718" alt="Screenshot 2023-05-18 at 2 58 35 PM" src="https://github.com/BostonCollegeDataVizLab/MATLAB-Regression-Lines/assets/110073567/b30a56bf-9168-49a6-b00b-07eeba24e568">
 
 <img width="555" alt="Screenshot 2023-05-18 at 2 58 59 PM" src="https://github.com/BostonCollegeDataVizLab/MATLAB-Regression-Lines/assets/110073567/e520e34d-c0b3-4ef2-a8aa-8115fde878d0">
+
+Thank you for using this tutorial! And the credits for the data set belongs to user: content-anu at github.
