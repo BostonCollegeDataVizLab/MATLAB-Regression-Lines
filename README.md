@@ -4,7 +4,7 @@ Hello! I will be introducing how to create a linear regression line in MATLAB.
 
 First off, the data set that we would be using is included in this repository so please download that plus the MATLAB software. If you are a Boston College student then please use this link: https://bcservices.bc.edu/service/matlab and create an account with your BC email.
 
-Great now let's open up MATLAB and create a new script. This new script will be what we will use to input in all of our data, create variables, and calculate the least squares regression line.
+Great now let's open up MATLAB and create a new script. This new script will be what we will use to input in all of our data, create variables, and calculate the linear regression line.
 
 Before we input our data set let's use the commands clear to clear any and all previous variables and close all to close any and all data files. Next let's open our data set file using the load command and our data file's name "jobdata.txt". Let's also assign the variable d to the data set. 
 
